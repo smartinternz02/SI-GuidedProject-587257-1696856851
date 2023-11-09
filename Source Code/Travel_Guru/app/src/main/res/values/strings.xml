@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">travel project</string>
+    <string name="back">Back</string>
+    <string name="more_options">More</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="adopt_me">Adopt Me</string>
+    <string name="title">Title</string>
+
+    <string name="add_form">Customize your Experience</string>
+    <string name="people">Total Number Of Persons</string>
+    <string name="adults">Number Of Adults</string>
+    <string name="children">Number Of Children</string>
+    <string name="rooms">Number Of Rooms</string>
+    <string name="endDate">End Date</string>
+    <string name="startDate">Start Date</string>
+    <string name="save">SAVE</string>
+    <string name="value_is_empty">Please provide correct details</string>
+    <string name="hotels">Book Hotels</string>
+    <string name="flights">Book Flights</string>
+</resources>
